@@ -25,12 +25,12 @@ A bank management system implemented in Python using socket programming with mul
 
 ## Compilation
 
-### Server Side
+  ### Server Side
 
-To compile and run the server, use the following commands:
-  ```python server.py ```
+  To compile and run the server, use the following commands:
+  ```python Server.py ```
 
-### Client Side
+  ### Client Side
 
-To compile and run the client, use the following commands:
-``` python client.py ```
+  To compile and run the client, use the following commands:
+  ``` python client.py ```
